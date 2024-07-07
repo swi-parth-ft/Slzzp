@@ -11,6 +11,7 @@
 		0751DE4C2C39EC3B00A018EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0751DE4B2C39EC3B00A018EC /* ContentView.swift */; };
 		0751DE4E2C39EC3D00A018EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0751DE4D2C39EC3D00A018EC /* Assets.xcassets */; };
 		0751DE512C39EC3D00A018EC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0751DE502C39EC3D00A018EC /* Preview Assets.xcassets */; };
+		0751DE582C3ADB5E00A018EC /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0751DE572C3ADB5E00A018EC /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0751DE4B2C39EC3B00A018EC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0751DE4D2C39EC3D00A018EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0751DE502C39EC3D00A018EC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0751DE572C3ADB5E00A018EC /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0751DE492C39EC3B00A018EC /* SlzzpApp.swift */,
 				0751DE4B2C39EC3B00A018EC /* ContentView.swift */,
+				0751DE572C3ADB5E00A018EC /* SleepCalculator.mlmodel */,
 				0751DE4D2C39EC3D00A018EC /* Assets.xcassets */,
 				0751DE4F2C39EC3D00A018EC /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0751DE4C2C39EC3B00A018EC /* ContentView.swift in Sources */,
+				0751DE582C3ADB5E00A018EC /* SleepCalculator.mlmodel in Sources */,
 				0751DE4A2C39EC3B00A018EC /* SlzzpApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
